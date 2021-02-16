@@ -10,14 +10,14 @@ class Main {
 
     if (number > 0) {
       while (number > 0) {
-        System.out.println(number - 1);
+        System.out.println(number);
         number--;
       }
     }
 
     if (number < 0) {
       while (number < 0) {
-        System.out.println(number + 1);
+        System.out.println(number);
         number++;
       }
     }
